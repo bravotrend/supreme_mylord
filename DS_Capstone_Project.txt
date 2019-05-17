@@ -1,0 +1,35 @@
+https://www.kaggle.com/c/web-traffic-time-series-forecasting/data
+
+
+
+Capstone Projects
+=================
+
+1.Loan Prediction Dataset
+Problem: Predict if a loan will get approved or not.
+
+What strategies are used by loan companies and which variables influence the outcome.
+
+
+
+2. Bigmart Sales Dataset
+Problem: Predict the sales of a store.
+
+Retail industry uses analytics to optimize tasks like product placement, inventory management, customized offers, product bundling, etc. 
+
+
+
+3.Wine Quality Dataset
+Problem: Predict the quality of the wine.
+
+https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
+
+
+4. Walmart Sales Forecasting DataSet 
+Objective:
+Predict the sales across various departments in each store.
+Predict the effect of markdowns on the sales during the holiday seasons.
+
+
+https://www.analyticsindiamag.com/popular-data-science-projects-for-aspiring-data-scientists/
